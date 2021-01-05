@@ -47,7 +47,8 @@ puts CSV::generate_line([
   'dosis entregadas',
   'dosis administradas',
   '% sobre entregadas',
-  'fecha actualización'
+  'fecha actualización',
+  'última vacuna registrada'
 ])
 Dir['reports/*txt'].each do |filename|
   filename =~ /(\d{4})(\d{2})(\d{2})\.txt/
