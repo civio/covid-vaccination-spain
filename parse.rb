@@ -34,6 +34,9 @@ def extract_data(lines, report_date)
     # so we just look for multiple spaces to split.
     columns = line.strip.split(/  +/)
 
+    # Remove some footnotes for consistency across days
+    columns[0].gsub!(' (**)', '')
+
     puts CSV::generate_line([report_date, columns].flatten)
   end
 
