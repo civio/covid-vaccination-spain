@@ -1,0 +1,1 @@
+20210104: Canarias and Castilla y León figures for administered doses are swapped, as explained in 20210105 report. Percentage amended also.
