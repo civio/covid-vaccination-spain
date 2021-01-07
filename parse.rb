@@ -37,6 +37,10 @@ def extract_data(lines, report_date)
     # Remove some footnotes for consistency across days
     columns[0].gsub!(' (**)', '')
 
+    # 20210107: Three reports published, three different table formats. 🤷‍♂️
+    # Who knows what tomorrow will bring.
+    columns.insert(4, '') if report_date=='07/01/2021'
+
     puts CSV::generate_line([report_date, columns].flatten)
   end
 
@@ -53,7 +57,7 @@ puts CSV::generate_line([
   'fecha actualización',
   'última vacuna registrada'
 ])
-Dir['reports/*txt'].each do |filename|
+Dir['reports/*txt'].sort.each do |filename|
   filename =~ /(\d{4})(\d{2})(\d{2})\.txt/
   report_date = "#{$3}/#{$2}/#{$1}"
   extract_data(get_data_table(filename), report_date)
