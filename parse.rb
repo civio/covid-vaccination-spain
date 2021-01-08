@@ -39,7 +39,8 @@ def extract_data(lines, report_date)
 
     # 20210107: Three reports published, three different table formats. 🤷‍♂️
     # Who knows what tomorrow will bring.
-    columns.insert(4, '') if report_date=='07/01/2021'
+    # 20210108: Seems like the 20210107 format is the one going forward.
+    columns.insert(4, '') unless report_date=='05/01/2021' or report_date=='04/01/2021'
 
     puts CSV::generate_line([report_date, columns].flatten)
   end
