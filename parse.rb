@@ -52,6 +52,11 @@ def extract_data(lines, filename)
       columns.insert(2, '')
     end
 
+    # The summary line doesn't have a date at the end, which makes sense.
+    # Github doesn't like that, so we just add an empty cell to make
+    # Github's web preview work well.
+    columns.push(nil) if columns.length<7
+
     puts CSV::generate_line([formatted_date, columns].flatten)
   end
 
