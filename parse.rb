@@ -24,7 +24,11 @@ def get_data_table(filename)
 end
 
 # Get the data points from a bunch of text lines.
-def extract_data(lines, report_date)
+def extract_data(lines, filename)
+  filename =~ /(\d{4})(\d{2})(\d{2})\.txt/
+  report_date = "#{$1}#{$2}#{$3}" # Date in ISO format, handy to sort and test
+  formatted_date = "#{$3}/#{$2}/#{$1}"
+
   # Extract four data points per line
   lines.each do |line|
     line.strip!
@@ -37,12 +41,18 @@ def extract_data(lines, report_date)
     # Remove some footnotes for consistency across days
     columns[0].gsub!(' (**)', '')
 
-    # 20210107: Three reports published, three different table formats. 🤷‍♂️
-    # Who knows what tomorrow will bring.
-    # 20210108: Seems like the 20210107 format is the one going forward.
-    columns.insert(4, '') unless report_date=='05/01/2021' or report_date=='04/01/2021'
+    # The first three reports were inconsistent about the type and number
+    # of dates provided. Things have settled now (20210114), but we need
+    # to fix one particular day.
+    columns.delete_at(4) if formatted_date=='05/01/2021'
 
-    puts CSV::generate_line([report_date, columns].flatten)
+    # Starting 20210114, we get data for more than one vaccine
+    if report_date<'20210114'
+      columns.insert(2, columns[1])
+      columns.insert(2, '')
+    end
+
+    puts CSV::generate_line([formatted_date, columns].flatten)
   end
 
 end
@@ -52,15 +62,14 @@ end
 puts CSV::generate_line([
   'informe',
   'comunidad autónoma',
+  'dosis Pfizer',
+  'dosis Moderna',
   'dosis entregadas',
   'dosis administradas',
   '% sobre entregadas',
-  'fecha actualización',
   'última vacuna registrada'
 ])
 Dir['reports/*txt'].sort.each do |filename|
-  filename =~ /(\d{4})(\d{2})(\d{2})\.txt/
-  report_date = "#{$3}/#{$2}/#{$1}"
-  extract_data(get_data_table(filename), report_date)
+  extract_data(get_data_table(filename), filename)
 end
 
