@@ -1,0 +1,99 @@
+Informe de actividad del proceso de vacunación                                                                                                                                                                                                   Periodo de  los  datos: 27/12/2020 –               15/01/2021
+
+                                                                                                                                                                                                                                                                  Fecha del informe:                15/01/2021
+
+Datos globales agregados
+
+                                                               Dosis entregadas en CC.AA (1)  Dosis administradas                                                                                    Nº  Personas con pauta
+
+                                                                                                                                                                                                         completa
+
+                                                               1.139.400                      768.950                                                                                                                                         0
+
+                                                                                              67,5% dosis recibidas                                                                                  -   % dosis administradas
+
+Distribución por tipo de vacuna
+
+                                                               Dosis entregadas en CC.AA      Dosis administradas                                                                                    Nº Personas con                             pauta
+
+                                                                                                                                                                                                         completa
+
+Pfizer / BioNtech                                              1.103.700                      768.533                                                                                                                                         -
+
+Moderna                                                        35.700                         417                                                                                                                                             -
+
+AstraZeneca / Oxford                                           -                              -                                                                                                                                               -
+
+Janssen                                                        -                              -                                                                                                                                               -
+
+Curevac                                                        -                              -                                                                                                                                               -
+
+(*) Fuentes: AEMPS y REGVACU (Datos reportados por las CC.AA)
+
+(1) Fuente: AEMPS. El reparto de dosis se ha realizado de forma equitativa entre CCAA en base a la distribución de los grupos de vacunación de la ETAPA 1 definidos en la Estrategia de Vacunación.
+
+La cifra de dosis entregadas a las Comunidades y Ciudades Autónomas de los distintos fabricantes se actualizará una vez por semana en el informe de los miércoles. Excepcionalmente, el primer envío de cada fabricante a nuestro país           se actualizará en el informe del día posterior  a  aquel  en  el  que  dicho
+
+envío sea recibido. La cifra de dosis entregadas de la vacuna de Pfizer/BioNtech está calculada teniendo en cuenta cinco dosis por vial. La compañía ha modificado la ficha técnica, estableciendo la posibilidad de extraer una sexta dosis     por vial en determinadas circunstancias.
+
+                                                               Informe de actividad diario. GIV – Gestión Integral de vacunación frente al COVID-19 en España                                                                                                                                                           2
+Informe de actividad del proceso de vacunación                                                                                                                                                                   Periodo de los datos: 27/12/2020 – 15/01/2021
+
+                                                                                                                                                                                                                                        Fecha del informe: 15/01/2021
+
+Datos por CC.AA y                               tipo       de         vacuna
+
+                                                           Dosis entregadas  Dosis entregadas  Dosis entregadas  Dosis                                                                               % sobre     Fecha de la última
+
+                                                           Pfizer(1)         Moderna (1)       totales (1)       administradas (2)                                                                   entregadas  vacuna registrada (2)
+
+                                          Andalucía        209.520           6.800             216.320           139.718                                                                             64,6%       14/01/2021
+
+                                          Aragón           35.415            1.200             36.615            23.619                                                                              64,5%       14/01/2021
+
+                                          Asturias         35.420            1.200             36.620            31.247                                                                              85,3%       15/01/2021
+
+                                          Baleares         12.840             600              13.440            9.366                                                                               69,7%       14/01/2021
+
+                                          Canarias         41.310            1.300             42.610            30.732                                                                              72,1%       15/01/2021
+
+                                          Cantabria        17.700             500              18.200            14.639                                                                              80,4%       15/01/2021
+
+                                          Castilla y Leon  76.740            2.500             79.240            59.411                                                                              75,0%       14/01/2021
+
+Castilla La Mancha                                         53.100            1.700             54.800            33.809                                                                              61,7%       15/01/2021
+
+                                          Cataluña         180.020           5.800             185.820           122.577                                                                             66,0%       14/01/2021
+
+                                          C. Valenciana    91.450            2.900             94.350            86.927                                                                              92,1%       15/01/2021
+
+                                          Extremadura      32.450            1.000             33.450            22.322                                                                              66,7%       14/01/2021
+
+                                                Galicia    56.080            1.800             57.880            49.768                                                                              86,0%       15/01/2021
+
+                                          La Rioja         8.840              200              9.040             5.953                                                                               65,9%       14/01/2021
+
+                                                Madrid     147.540           4.700             152.240           77.921                                                                              51,2%       15/01/2021
+
+                                                Murcia     38.360            1.200             39.560            27.001                                                                              68,3%       15/01/2021
+
+                                          Navarra          17.700             500              18.200            9.305                                                                               51,1%       14/01/2021
+
+                                          País Vasco       47.205            1.400             48.605            22.464                                                                              46,2%       14/01/2021
+
+                                                Ceuta      1.005              200              1.205                    941                                                                          78,1%       14/01/2021
+
+                                                Melilla    1.005              200              1.205             1.230                                                                               102,1%      14/01/2021
+
+                                          Totales          1.103.700         35.700            1.139.400         768.950                                                                             67,5%
+
+(1) Fuente: AEMPS. El reparto de dosis se ha realizado de forma equitativa entre CCAA en base a la distribución de los grupos de vacunación de la ETAPA 1 definidos en la Estrategia de Vacunación.
+
+La cifra de dosis entregadas a las Comunidades y Ciudades Autónomas de los distintos fabricantes se actualizará una vez por semana en el informe de los miércoles. Excepcionalmente, el primer envío de cada fabricante a nuestro país se actualizará en el informe del día posterior a aquel en el que
+
+dicho envío sea recibido. La cifra de dosis entregadas de la vacuna de Pfizer/BioNtech está calculada teniendo en cuenta cinco dosis por vial. La compañía ha modificado la ficha técnica, estableciendo la posibilidad de extraer una sexta dosis por vial en determinadas circunstancias.
+
+(2) Fuente: REGVACU reportado por CC.AA.
+
+                                                           Informe de actividad diario. GIV – Gestión Integral de vacunación frente al COVID-19 en España                                                                                                                                                3
+
