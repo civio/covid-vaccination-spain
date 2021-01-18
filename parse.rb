@@ -41,6 +41,10 @@ def extract_data(lines, filename)
     # Remove some footnotes for consistency across days
     columns[0].gsub!(' (**)', '')
 
+    # Castilla La Mancha sometimes breaks across lines
+    columns[0] = 'Castilla La Mancha' if columns[0]=='Castilla La'
+    next if columns[0]=='Mancha'
+
     # The first three reports were inconsistent about the type and number
     # of dates provided. Things have settled now (20210114), but we need
     # to fix one particular day.
@@ -49,18 +53,18 @@ def extract_data(lines, filename)
     # Starting 20210114, we get data for more than one vaccine
     if report_date<'20210114'
       columns.insert(2, columns[1])
-      columns.insert(2, '')
+      columns.insert(2, nil)
     end
 
     # Starting 20210118, we get data for # people with completed treatment
     if report_date<'20210118'
-      columns.insert(6, '')
+      columns.insert(6, nil)
     end
 
     # The summary line doesn't have a date at the end, which makes sense.
     # Github doesn't like that, so we just add an empty cell to make
     # Github's web preview work well.
-    columns.push(nil) if columns.length<7
+    columns.push(nil) if columns[0]=='Totales'
 
     puts CSV::generate_line([formatted_date, columns].flatten)
   end
