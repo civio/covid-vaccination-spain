@@ -52,6 +52,11 @@ def extract_data(lines, filename)
       columns.insert(2, '')
     end
 
+    # Starting 20210118, we get data for # people with completed treatment
+    if report_date<'20210118'
+      columns.insert(6, '')
+    end
+
     # The summary line doesn't have a date at the end, which makes sense.
     # Github doesn't like that, so we just add an empty cell to make
     # Github's web preview work well.
@@ -72,6 +77,7 @@ puts CSV::generate_line([
   'dosis entregadas',
   'dosis administradas',
   '% sobre entregadas',
+  'personas con pauta completa',
   'última vacuna registrada'
 ])
 Dir['reports/*txt'].sort.each do |filename|
