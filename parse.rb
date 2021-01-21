@@ -29,14 +29,14 @@ def extract_data(lines, filename)
   report_date = "#{$1}#{$2}#{$3}" # Date in ISO format, handy to sort and test
   formatted_date = "#{$3}/#{$2}/#{$1}"
 
-  # Extract four data points per line
+  # Extract data points per line
   lines.each do |line|
     line.strip!
     next if line==''
 
     # The PDF to text conversion is good enough with the -table option,
     # so we just look for multiple spaces to split.
-    columns = line.strip.split(/  +/)
+    columns = line.split(/  +/)
 
     # Remove some footnotes for consistency across days
     columns[0].gsub!(' (**)', '')
@@ -48,17 +48,17 @@ def extract_data(lines, filename)
     # The first three reports were inconsistent about the type and number
     # of dates provided. Things have settled now (20210114), but we need
     # to fix one particular day.
-    columns.delete_at(4) if formatted_date=='05/01/2021'
+    columns.delete_at(4) if report_date=='20210105'
 
     # Starting 20210114, we get data for more than one vaccine
     if report_date<'20210114'
-      columns.insert(2, columns[1])
-      columns.insert(2, nil)
+      columns.insert(2, columns[1]) # The Pfizer doses equal the total doses
+      columns.insert(2, nil)        # Add a blank column for Moderna
     end
 
     # Starting 20210118, we get data for # people with completed treatment
     if report_date<'20210118'
-      columns.insert(6, nil)
+      columns.insert(6, nil)        # Add a blank column, no one had two doses
     end
 
     # The summary line doesn't have a date at the end, which makes sense.
@@ -66,6 +66,7 @@ def extract_data(lines, filename)
     # Github's web preview work well.
     columns.push(nil) if columns[0]=='Totales'
 
+    # And output the result of all this.
     puts CSV::generate_line([formatted_date, columns].flatten)
   end
 
