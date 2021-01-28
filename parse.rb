@@ -39,6 +39,7 @@ def extract_data(lines, filename)
     columns = line.split(/  +/)
 
     # Remove some footnotes for consistency across days
+    columns[0].gsub!(' (*)', '')
     columns[0].gsub!(' (**)', '')
 
     # Castilla La Mancha sometimes breaks across lines
