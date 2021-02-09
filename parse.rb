@@ -51,10 +51,15 @@ def extract_data(lines, filename)
     # to fix one particular day.
     columns.delete_at(4) if report_date=='20210105'
 
-    # Starting 20210114, we get data for more than one vaccine
+    # Starting 20210114, we get data for a second vaccine (Moderna), not just Pfizer
     if report_date<'20210114'
       columns.insert(2, columns[1]) # The Pfizer doses equal the total doses
       columns.insert(2, nil)        # Add a blank column for Moderna
+    end
+
+    # Starting 20210209, we get data for a third vaccine (AstraZeneca)
+    if report_date<'20210209'
+      columns.insert(3, nil)        # Add a blank column for AstraZeneca
     end
 
     # Starting 20210118, we get data for # people with completed treatment
@@ -80,6 +85,7 @@ puts CSV::generate_line([
   'comunidad autónoma',
   'dosis Pfizer',
   'dosis Moderna',
+  'dosis AstraZeneca',
   'dosis entregadas',
   'dosis administradas',
   '% sobre entregadas',
