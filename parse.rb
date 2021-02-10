@@ -64,7 +64,7 @@ def extract_data(lines, filename)
 
     # Starting 20210118, we get data for # people with completed treatment
     if report_date<'20210118'
-      columns.insert(6, nil)        # Add a blank column, no one had two doses
+      columns.insert(7, nil)        # Add a blank column, no one had two doses
     end
 
     # The summary line doesn't have a date at the end, which makes sense.
