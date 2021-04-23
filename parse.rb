@@ -62,6 +62,11 @@ def extract_data(lines, filename)
       columns.insert(3, nil)        # Add a blank column for AstraZeneca
     end
 
+    # Starting 20210422, we get data for a fourth vaccine
+    if report_date<'20210422'
+      columns.insert(4, nil)        # Add a blank column for Janssen
+    end
+
     # Starting 20210118, we get data for # people with completed treatment
     if report_date<'20210118'
       columns.insert(7, nil)        # Add a blank column, no one had two doses
@@ -94,6 +99,7 @@ puts CSV::generate_line([
   'dosis Pfizer',
   'dosis Moderna',
   'dosis AstraZeneca',
+  'dosis Janssen',
   'dosis entregadas',
   'dosis administradas',
   '% sobre entregadas',
