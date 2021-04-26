@@ -69,7 +69,7 @@ def extract_data(lines, filename)
 
     # Starting 20210118, we get data for # people with completed treatment
     if report_date<'20210118'
-      columns.insert(7, nil)        # Add a blank column, no one had two doses
+      columns.insert(8, nil)        # Add a blank column, no one had two doses
     end
 
     # Starting 20210406, we get data for # people with one dose
@@ -77,7 +77,7 @@ def extract_data(lines, filename)
       # Add a blank column, although this could be deduced from the other columns,
       # since all the vaccines needed two doses. I.e.
       #   Total doses - 2 * fully vaccinated = people with one dose
-      columns.insert(7, nil)
+      columns.insert(8, nil)
     end
 
     # The summary line doesn't have a date at the end, which makes sense.
