@@ -1,0 +1,216 @@
+#YoMeVacunoSeguro
+Informe de actividad del proceso de vacunación                                                                                                                                                                                                   Periodo de los datos: 27/12/2020 – 19/08/2021
+                                                                                                                                                                                                                                                                 Fecha del informe: 20/08/2021
+
+
+    Datos globales agregados (*)
+                                                                                                                                                                                                                                                             Nº Personas con al menos 1
+                                                 Dosis recibidas en España                                        Dosis entregadas en España (1)                                                  Dosis administradas                                                  dosis
+   Dosis adquiridas de                                                                                                                                                                                                                                             35.442.173
+        Q1 a Q3
+                                                         68.772.809                                                            68.314.152                                                             63.090.941                                               74,7% población**
+93.509.245                                        73,5% dosis adquiridas                                       99,3% dosis recibidas en España                                               92,4% dosis entregadas                                      Nº Personas con pauta completa
+                                                                                                               Dosis entregadas a Andorra: 30.030                                                                                                                  31.096.470
+                                                                                                              Dosis pendientes de entrega: 427.727                                                                                                             65,5% población**
+
+    Distribución por tipo de vacuna
+                                                  Dosis adquiridas                          Dosis recibidas en                        Dosis entregadas en                         Dosis administradas                          Nº Personas con al                      Nº Personas con pauta
+                                                   de Q1 a Q3 (2)                                España                                     España                                                                               menos 1 dosis                               completa
+
+
+     Pfizer / BioNtech                               43.955.845                                 47.452.659                                  47.419.737                          44.167.784 (93,1%)                                  24.094.107                                  21.151.791
+
+                     Moderna                         19.722.800                                   8.271.600                                  8.267.080                            7.313.193 (88,5%)                                  4.340.733                                   3.270.940
+
+           AstraZeneca /
+                                                     12.232.200                                 10.389.600                                   9.979.000                            9.701.833 (97,2%)                                  5.099.202                                   4.765.608
+                 Oxford
+                      Janssen                        17.598.400                                   2.658.950                                  2.648.335                            1.908.131 (72,1%)                                  1.908.131                                   1.908.131
+
+                       Curevac                                -                                           -                                           -                                           -                                          -                                           -
+
+  Fuentes: AEMPS y REGVACU (Datos reportados por las CC.AA).
+  (1)    Fuente: AEMPS. No se incluyen 900 dosis destinadas a Ensayos Clínicos. El reparto de dosis se ha realizado de forma equitativa entre CCAA en base a la distribución de los grupos de vacunación definidos en la Estrategia de Vacunación. La cifra de dosis entregadas a las Comunidades y Ciudades
+         Autónomas de los distintos fabricantes se actualizará dos veces por semana, los martes y los viernes. Excepcionalmente, el primer envío de cada fabricante a nuestro país se actualizará en el informe del día posterior a la recepción del mismo, La cifra de dosis entregadas de la vacuna de Pfizer/BioNtech
+         está calculada teniendo en cuenta cinco dosis por vial hasta el día 24/01/2021. A partir de este día se contabilizan 6 dosis por vial. La compañía ha modificado la ficha técnica, estableciendo la posibilidad de extraer una sexta dosis por vial en determinadas circunstancias.
+  (2)    La distribución de las dosis adquiridas de AstraZeneca para el 3er trimestre (Q3) no ha sido aún confirmadas por el fabricante. ** Fuente: datos INE 2020: https://www.ine.es/jaxi/Tabla.htm?path=/t20/e245/p08/l0/&file=02003.px&L=0
+
+
+
+                                                                                  Informe de actividad diario. GIV – Gestión Integral de vacunación frente al COVID-19 en España                                                                                                                             2
+Informe de actividad del proceso de vacunación                                                                                                                                                                                                     Periodo de los datos: 27/12/2020 – 19/08/2021
+                                                                                                                                                                                                                                                                   Fecha del informe: 20/08/2021
+
+
+     Dosis entregadas y administradas por tipo de vacuna
+                                                Dosis                     Dosis                     Dosis                       Dosis                       Dosis                     Dosis                   % sobre                                                                      Fecha de la
+                                                                                                                                                                                                                                  Nº Personas con Nº Personas con
+                                             entregadas                 entregadas               entregadas                   entregadas                 entregadas               administradas              entregadas                                                                   última vacuna
+                                                                                                                                                                                                                    (3)           al menos 1 dosis pauta completa
+                                               Pfizer(1)                Moderna (1)             AstraZeneca (1)               Janssen (1)                  Total (1)                 Total (2)                                                                                             registrada(2)
+                      Andalucía*                 8.302.410                   1.539.300                  1.805.800                     525.450             12.172.960                 11.383.761                     93,5%                  6.378.554                  5.577.939                19/08/2021
+                         Aragón                  1.345.815                     203.700                    285.700                      64.700              1.899.915                  1.809.240                     95,2%                  1.000.534                    910.365                19/08/2021
+                         Asturias                1.089.005                     148.800                    235.900                      49.700              1.523.405                  1.527.161                    100,2%                    828.126                    749.480                19/08/2021
+                        Baleares                 1.118.880                     252.300                    256.400                      62.400              1.689.980                  1.452.964                      86,0%                    804.655                    729.706               19/08/2021
+                        Canarias                 2.054.490                     443.900                    503.700                     133.650              3.135.740                  2.817.265                      89,8%                 1.584.038                  1.377.153                19/08/2021
+                       Cantabria                    593.925                      84.600                   130.200                      24.950                833.675                    778.069                      93,3%                    430.997                    377.474               19/08/2021
+                Castilla y León                  2.551.485                     358.300                    514.400                     112.850              3.537.035                  3.380.353                      95,6%                 1.878.089                  1.676.744                19/08/2021
+        Castilla - La Mancha                     2.027.475                     330.700                    460.900                     101.375              2.920.450                  2.713.573                      92,9%                 1.531.420                  1.330.737                19/08/2021
+                        Cataluña                 7.720.280                   1.320.500                  1.698.100                     439.500             11.178.380                  9.862.844                      88,2%                 5.553.197                  4.852.767                19/08/2021
+                 C. Valenciana                   5.040.550                     871.200                    906.800                     307.250              7.125.800                  6.669.844                      93,6%                 3.825.339                  3.230.582                19/08/2021
+                   Extremadura                   1.081.745                     160.000                    228.000                      51.750              1.521.495                  1.520.586                      99,9%                    846.506                    750.099               19/08/2021
+                           Galicia               2.792.905                     383.500                    595.400                     131.800              3.903.605                  3.860.145                      98,9%                 2.117.393                  1.914.211                19/08/2021
+                         La Rioja                   327.665                      49.900                     61.400                     15.200                454.165                    423.627                      93,3%                    242.181                    211.713               19/08/2021
+                           Madrid                6.784.749                   1.262.700                  1.309.400                     381.450              9.738.299                  8.703.451                      89,4%                 4.938.701                  4.385.195                19/08/2021
+                           Murcia                1.481.945                     304.400                    259.900                      88.100              2.134.345                  1.962.350                      91,9%                 1.121.837                     904.735               19/08/2021
+                          Navarra                   653.595                    113.800                    145.700                      32.750                945.845                    880.443                      93,1%                    494.171                    437.549               19/08/2021
+                     País Vasco                  2.234.520                     339.300                    444.200                     110.850              3.128.870                  2.977.782                      95,2%                 1.662.176                  1.494.161                19/08/2021
+                            Ceuta                     83.880                     18.400                     18.100                       4.150               124.530                    100.216                      80,5%                     56.320                     50.177               19/08/2021
+                            Melilla                   85.050                     19.300                     15.100                       5.750               125.200                     92.657                      74,0%                     53.092                     47.858               19/08/2021
+            Fuerzas Armadas                           49.368                     58.300                   103.900                        2.000               213.568                    169.897                      79,6%                     91.269                     84.737               19/08/2021
+             Sanidad Exterior                                 0                    4.180                            0                    2.710                 6.890                      4.713                      68,4%                       3.578                      3.088              18/08/2021
+                          Totales            47.419.737                   8.267.080                  9.979.000                   2.648.335                68.314.152                 63.090.941                    92,4%               35.442.173                 31.096.470
+*Los datos de hoy 20/08/2021 de Andalucía incluyen la regularización de registros correspondientes a primeras dosis que, de acuerdo a la Estrategia de Vacunación, han de figurar como pautas completas
+(1) Fuente: AEMPS. El reparto de dosis se ha realizado de forma equitativa entre CCAA en base a la distribución de los grupos de vacunación definidos en la Estrategia de Vacunación.
+La cifra de dosis entregadas a las Comunidades y Ciudades Autónomas de los distintos fabricantes se actualizará dos veces por semana, los martes y los viernes. Excepcionalmente, el primer envío de cada fabricante a nuestro país se actualizará en el informe del día posterior a aquel en el que dicho
+envío sea recibido. La cifra de dosis entregadas de la vacuna de Pfizer/BioNtech está calculada teniendo en cuenta cinco dosis por vial hasta el día 24/01/2021. A partir de este día se contabilizan 6 dosis por vial. La compañía ha modificado la ficha técnica, estableciendo la posibilidad de extraer una
+sexta dosis por vial en determinadas circunstancias.
+(2) Fuente: REGVACU reportado por CC. AA.
+(3) Para los cálculos de los porcentajes es necesario considerar la capacidad de administrar hasta 6 dosis por vial y la fecha de actualización de los datos de las dosis entregadas, según se indica en la nota número 1.
+
+                                                                                   Informe de actividad diario. GIV – Gestión Integral de vacunación frente al COVID-19 en España                                                                                                                                 3
+Informe de actividad del proceso de vacunación                                                                                                                                    Periodo de los datos: 27/12/2020 - 19/08/2021
+                                                                                                                                                                                                  Fecha del informe: 20/08/2021
+
+
+    Cobertura de población vacunada mayor de 40 años por CC.AA
+                                                                                                                                                                   Detalle de Coberturas por Grupos Etarios Prioritarios
+                                                                                                                                                             Personas con al menos 1 dosis      Personas con pauta completa
+                                   Población a                                                                                                                   Mayores de 40 años                  Mayores de 40 años
+                                                                                                                                             Fecha de la
+                                    vacunar               Nº Personas con % Personas con al Nº Personas con              % Personas con
+                                                                                                                                           última vacuna
+                                   Mayor de 40            al menos 1 dosis menos 1 dosis    pauta completa               pauta completa*
+                                                                                                                                            registrada (2)
+                                     años(1)
+              Andalucía                 4.630.179                 4.390.172                     94,8%        4.303.162           92,9%        19/08/2021
+                 Aragón                   787.338                   734.870                     93,3%          717.162           91,1%        19/08/2021               93,7%                                  91,1%
+                Asturias                  676.365                   645.974                     95,5%          630.966           93,3%        19/08/2021
+               Baleares                   619.258                   543.816                     87,8%          524.337           84,7%        19/08/2021             40-49 años                           40-49 años
+               Canarias                 1.218.295                 1.083.653                     88,9%        1.046.097           85,9%        19/08/2021
+              Cantabria                   359.186                   340.176                     94,7%          332.960           92,7%        19/08/2021
+                                                                                                                                                                        85,3%
+        Castilla y León                 1.532.122                 1.455.121                     95,0%        1.426.218           93,1%        19/08/2021                                                     81,9%
+  Castilla - La Mancha                  1.150.822                 1.078.174                     93,7%        1.036.738           90,1%        19/08/2021
+                                        4.328.607                 3.937.627                     91,0%        3.771.710           87,1%        19/08/2021             50-59 años                           50-59 años
+               Cataluña
+         C. Valenciana                  2.899.043                 2.735.742                     94,4%        2.667.198           92,0%        19/08/2021
+          Extremadura                     621.888                   609.117                     97,9%          599.326           96,4%        19/08/2021
+                 Galicia                1.720.101                 1.654.654                     96,2%        1.636.694           95,2%        19/08/2021                93,1%                                 90,6%
+               La Rioja                   188.661                   180.350                     95,6%          175.263           92,9%        19/08/2021
+                 Madrid                 3.732.280                 3.480.808                     93,3%        3.395.237           91,0%        19/08/2021             60-69 años                           60-69 años
+                 Murcia                   786.992                   749.768                     95,3%          699.777           88,9%        19/08/2021
+                Navarra                   375.498                   351.404                     93,6%          343.779           91,6%        19/08/2021
+            País Vasco                  1.353.260                 1.275.566                     94,3%        1.254.469           92,7%        19/08/2021                97,7%                                94,5%
+                  Ceuta                    38.978                    34.583                     88,7%           33.210           85,2%        19/08/2021
+                  Melilla                  37.225                    31.386                     84,3%           30.527           82,0%        19/08/2021             70-79 años                           70-79 años
+    Fuerzas Armadas                             -                    34.860                          -          32.996                -       19/08/2021
+       Sanidad Exterior                         -                     1.550                          -           1.420                -       18/08/2021
+                 Totales              27.056.098                25.349.371                      93,7%       24.659.246           91,1%                                  99,2%                                98,3%
+    Fuente: REGVACU. Datos reportados por las CC.AA
+    (1) Fuente: datos INE 2020 https://www.ine.es/jaxi/Tabla.htm?path=/t20/e245/p08/l0/&file=02003.px&L=0                                                             +80 años                            +80 años
+    (2) Fuente: REGVACU reportado por CC.AA.
+
+
+
+                                                                               Informe de actividad diario. GIV – Gestión Integral de vacunación frente al COVID-19 en100,0%
+                                                                                                                                                                       España                                100,0%
+                                                                                                                                                                                                                            4
+  Informe de actividad del proceso de vacunación                                                                                                                                                                Periodo de los datos: 27/12/2020 – 19/08/2021
+                                                                                                                                                                                                                                Fecha del informe: 20/08/2021
+
+
+       Coberturas de grupos etarios (1/2) – Personas con al menos una dosis
+                                                                                                                                                                                                                          Total
+                                  %                        %                        %                        %                       %                       %                       %                        %         Vacunados                 % Con al
+                    Vacunados               Vacunados                Vacunados                Vacunados                Vacunados               Vacunados               Vacunados               Vacunados                            Población a
+   CC.AA                         ≥80                     70-79                    60-69                    50-59                   40-49                   30-39                   20-29                    12-19         con al                  menos 1
+                     ≥80 años               70-79 años               60-69 años               50-59 años               40-49años               30-39años               20-29años               12-19 años                            Vacunar*
+                                años*                    años*                    años*                    años*                   años*                   años*                   años*                    años*        menos 1                   dosis*
+                                                                                                                                                                                                                          dosis
+
+      Andalucía      433.020    100,0%        651.323    100,0%        916.552    100,0%      1.188.063    93,9%       1.201.214      86,7%      859.523   75,4%         664.183   71,5%         464.676    61,7%       6.378.554    7.451.975        85,6%
+         Aragón      101.013    100,0%        118.817    99,9%         152.610    97,6%         181.672    91,6%         180.758      84,1%      115.441   70,3%          90.212   69,2%          60.011    58,2%       1.000.534    1.185.134        84,4%
+        Asturias      88.726    100,0%        113.992    100,0%        146.293    97,8%         150.480    92,5%         146.483      87,7%       85.326   74,6%          57.414   72,6%          39.412    61,6%         828.126      933.927        88,7%
+       Baleares       51.170    100,0%         78.612    97,6%         108.532    92,6%         146.007    88,1%         159.495      77,4%      114.511   62,9%          84.934   61,6%          61.394    64,3%         804.655    1.034.867        77,8%
+       Canarias       92.482    100,0%        150.294    97,3%         221.018    94,0%         314.169    89,6%         305.690      78,8%      214.212   68,9%         168.619   67,0%         117.554    65,4%       1.584.038    1.960.774        80,8%
+      Cantabria       42.334    100,0%         55.918    100,0%         75.668    97,8%          82.289    91,5%          83.967      85,9%       49.307   70,0%          31.295   62,0%          10.219    23,2%         430.997      524.127        82,2%
+ Castilla y León     228.983    100,0%        249.774    100,0%        317.018    99,5%         346.706    91,0%         312.640      86,1%      200.488   74,9%         151.452   71,8%          71.028    43,0%       1.878.089    2.176.253        86,3%
+    Castilla - La
+                     137.651    100,0%        157.877    99,2%         219.688    100,0%        282.001    91,7%         280.957      85,0%      195.159   73,4%         156.395   71,7%         101.692    58,5%       1.531.420    1.808.784        84,7%
+       Mancha
+       Cataluña      457.665    100,0%        615.497    96,9%         788.782    94,2%         996.151    91,2%       1.079.532      82,0%      698.449   66,9%         537.374   64,1%         379.747    57,9%       5.553.197    6.868.360        80,9%
+  C. Valenciana      296.423    100,0%        432.851    98,9%         563.347    97,0%         707.527    94,0%         735.594      86,4%      465.245   71,7%         364.496   70,6%         259.856    61,2%       3.825.339    4.488.459        85,2%
+   Extremadura        78.142    100,0%         95.753    100,0%        131.808    100,0%        159.663    94,4%         143.751      90,1%      108.238   81,1%          82.869   73,1%          46.282    54,6%         846.506      953.437        88,8%
+         Galicia     241.625    100,0%        290.251    100,0%        341.297    98,4%         384.789    94,8%         396.692      89,5%      245.721   76,0%         173.758   75,2%          43.260    24,0%       2.117.393    2.454.497        86,3%
+        La Rioja      23.332    100,0%         28.592    100,0%         37.662    99,9%          44.653    93,7%          46.111      87,1%       28.446   72,3%          19.711   64,7%          13.674    53,6%         242.181      283.970        85,3%
+         Madrid      373.099    100,0%        509.132    96,8%         681.457    96,9%         923.617    94,9%         993.503      85,2%      683.062   71,9%         511.580   68,9%         263.251    47,6%       4.938.701    5.977.937        82,6%
+         Murcia       73.714    100,0%        102.577    99,7%         146.007    99,4%         203.673    95,5%         223.797      88,1%      153.824   73,6%         124.530   72,3%          93.715    66,0%       1.121.837    1.310.137        85,6%
+        Navarra       42.434    100,0%         55.767    100,0%         71.255    96,5%          89.745    92,8%          92.203      85,4%       59.218   72,8%          48.052   70,5%          35.497    63,0%         494.171      581.354        85,0%
+     País Vasco      163.842    100,0%        213.241    100,0%        275.529    98,4%         315.306    92,7%         307.648      85,0%      182.015   69,9%         125.485   62,3%          79.110    46,9%       1.662.176    1.983.943        83,8%
+           Ceuta        2.383   91,5%           3.862    89,4%           7.513    95,6%          10.234    88,6%          10.591      83,8%        8.359   70,3%           7.737   70,5%           5.641    61,8%          56.320       70.965        79,4%
+         Melilla        1.997   85,0%           3.288    87,7%           7.011    89,6%           9.421    83,4%           9.669      80,6%        8.030   66,2%           7.668   63,9%           6.008    62,8%          53.092       70.927        74,9%
+         FF.AA.           32            -          18            -       3.508            -       9.465            -      21.837           -      31.410           -      24.047           -         952            -      91.269             -              -
+Sanidad Exterior          21            -          22            -         161            -         460            -        886            -        992            -        906            -         130            -       3.578             -              -
+
+  Total España      2.930.088   100,0%      3.927.458     99,2%      5.212.716     97,7%      6.546.091    93,1%       6.733.018      85,3%    4.506.976   72,3%       3.432.717   69,4%       2.153.109    55,4% 35.442.173        42.119.827        84,1%
+
+                                 La Población a Vacunar de mayores de 80 años corresponde a la estimación del INE de Julio de 2020.
+                                 Datos del 20/08/2021 .
+                                 Fuente: REGVACU reportado por CC.AA.         Informe de actividad diario. GIV – Gestión              Integral de vacunación frente al COVID-19 en España                                                                        5
+                                 *Fuente: datos INE 2020 https://www.ine.es/jaxi/Tabla.htm?path=/t20/e245/p08/l0/&file=02003.px&L=0
+  Informe de actividad del proceso de vacunación                                                                                                                                                                    Periodo de los datos: 27/12/2020 - 19/08/2021
+                                                                                                                                                                                                                                    Fecha del informe: 20/08/2021
+
+
+       Coberturas de grupos etarios (2/2) – Personas con pauta completa
+                                                                                                                                                                                                                           Total
+                                  %                        %                        %                        %                       %                       %                       %                        %
+                    Vacunados               Vacunados                Vacunados                Vacunados                Vacunados               Vacunados               Vacunados               Vacunados                Vacunados   Población a   % Con pauta
+   CC.AA                         ≥80                     70-79                    60-69                    50-59                   40-49                   30-39                   20-29                    12-19
+                     ≥80 años               70-79 años               60-69 años               50-59 años               40-49años               30-39años               20-29años               12-19 años               con pauta    Vacunar*      completa*
+                                años*                    años*                    años*                    años*                   años*                   años*                   años*                    años*
+                                                                                                                                                                                                                         completa
+
+
+      Andalucía      426.081    100,0%        645.333    99,2%         885.467    96,7%       1.172.806    92,7%       1.173.475      84,7%      768.307   67,4%         436.807   47,0%          69.663     9,3%       5.577.939    7.451.975         74,9%
+         Aragón       99.352    100,0%        117.839    99,1%         147.667    94,4%         177.606    89,6%         174.698      81,3%      103.621   63,1%          66.680   51,1%          22.902    22,2%         910.365    1.185.134         76,8%
+        Asturias      87.759    99,9%         113.469    100,0%        142.878    95,5%         146.108    89,8%         140.752      84,3%       75.079   65,6%          36.550   46,2%           6.885    10,8%         749.480      933.927         80,3%
+       Baleares       50.414    100,0%         77.918    96,8%         104.125    88,8%         141.196    85,2%         150.684      73,1%       97.355   53,4%          68.839   49,9%          39.175    41,0%         729.706    1.034.867         70,5%
+       Canarias       90.898    100,0%        148.410    96,0%         208.129    88,5%         307.174    87,6%         291.486      75,1%      179.238   57,6%         118.610   47,1%          33.208    18,5%       1.377.153    1.960.774         70,2%
+      Cantabria       41.857    100,0%         55.603    100,0%         74.511    96,3%          80.625    89,6%          80.364      82,2%       35.293   50,1%           8.221   16,3%           1.000     2,3%         377.474      524.127         72,0%
+ Castilla y León     226.119    100,0%        248.119    100,0%        308.730    96,9%         340.118    89,2%         303.132      83,4%      175.722   65,6%          68.196   32,3%           6.608     4,0%       1.676.744    2.176.253         77,0%
+    Castilla - La
+                     135.582    100,0%        156.409    98,3%         209.162    95,8%         271.044    88,2%         264.541      80,0%      168.368   63,3%         109.969   50,4%          15.662     9,0%       1.330.737    1.808.784         73,6%
+       Mancha
+       Cataluña      450.017    100,0%        607.201    95,6%         762.700    91,1%         929.821    85,2%       1.021.971      77,6%      564.361   54,0%         374.711   44,7%         141.985    21,6%       4.852.767    6.868.360         70,7%
+  C. Valenciana      291.939    100,0%        429.026    98,0%         539.679    92,9%         695.845    92,5%         710.709      83,5%      387.774   59,8%         150.501   29,2%          25.109     5,9%       3.230.582    4.488.459         72,0%
+   Extremadura        77.013    100,0%         95.002    100,0%        129.046    103,0%        157.595    93,1%         140.670      88,2%       99.485   74,5%          46.819   41,3%           4.469     5,3%         750.099      953.437         78,7%
+         Galicia     239.759    100,0%        288.866    99,7%         337.769    97,4%         381.246    93,9%         389.054      87,8%      225.156   69,6%          44.435   19,2%           7.926     4,4%       1.914.211    2.454.497         78,0%
+        La Rioja      23.098    100,0%         28.451    100,0%         36.255    96,1%          43.477    91,2%          43.982      83,1%       24.150   61,4%           9.979   32,8%           2.321     9,1%         211.713      283.970         74,6%
+         Madrid      369.407    100,0%        506.109    96,2%         665.711    94,7%         907.897    93,3%         946.113      81,1%      573.554   60,4%         337.542   45,5%          78.862    14,2%       4.385.195    5.977.937         73,4%
+         Murcia       72.520    100,0%         99.981    97,2%         134.459    91,5%         190.123    89,2%         202.694      79,8%      126.188   60,4%          76.670   44,5%           2.100     1,5%         904.735    1.310.137         69,1%
+        Navarra       41.952    100,0%         55.554    99,6%          69.515    94,1%          87.947    91,0%          88.811      82,2%       52.350   64,4%          33.715   49,5%           7.705    13,7%         437.549      581.354         75,3%
+     País Vasco      161.439    102,2%        211.525    99,3%         269.590    96,2%         311.000    91,5%         300.915      83,1%      154.099   59,1%          64.891   32,2%          20.702    12,3%       1.494.161    1.983.943         75,3%
+           Ceuta        2.351   90,2%           3.812    88,3%           7.188    91,5%           9.908    85,7%           9.951      78,7%        7.465   62,8%           6.538   59,6%           2.964    32,5%          50.177       70.965         70,7%
+         Melilla        1.944   82,8%           3.198    85,3%           6.836    87,3%           9.186    81,3%           9.363      78,0%        7.453   61,4%           6.679   55,7%           3.199    33,4%          47.858       70.927         67,5%
+         FF.AA.           24            -          18            -       3.387            -       8.995            -      20.572           -      29.110           -      21.788           -         843            -      84.737             -             -
+Sanidad Exterior          16            -          19            -         147            -         440            -        798            -        845            -        754            -          69            -       3.088             -             -
+
+  Total España      2.889.541   100,0%      3.891.862     98,3%      5.042.951     94,5%      6.370.157    90,6%       6.464.735      81,9%    3.854.973   61,9%       2.088.894   42,2%         493.357    12,7% 31.096.470        42.119.827         73,8%
+
+                                 La Población a Vacunar de mayores de 80 años corresponde a la estimación del INE de Julio de 2020
+                                 Datos del 20/08/2021 .
+                                 Fuente: REGVACU reportado por CC.AA.         Informe de actividad diario. GIV – Gestión              Integral de vacunación frente al COVID-19 en España                                                                       6
+                                 *Fuente: datos INE 2020 https://www.ine.es/jaxi/Tabla.htm?path=/t20/e245/p08/l0/&file=02003.px&L=0
+
