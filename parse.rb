@@ -41,6 +41,7 @@ def extract_data(lines, filename)
     # Remove some footnotes for consistency across days
     columns[0].gsub!(' (*)', '')
     columns[0].gsub!(' (**)', '')
+    columns[0].gsub!('*', '')
 
     # Castilla La Mancha sometimes breaks across lines
     columns[0] = 'Castilla La Mancha' if columns[0]=='Castilla La'
@@ -80,6 +81,11 @@ def extract_data(lines, filename)
       columns.insert(8, nil)
     end
 
+    # Starting 20211006, we get data for # people with additional doses
+    if report_date<'20211006'
+      columns.insert(10, nil)
+    end
+
     # The summary line doesn't have a date at the end, which makes sense.
     # Github doesn't like that, so we just add an empty cell to make
     # Github's web preview work well.
@@ -105,6 +111,7 @@ puts CSV::generate_line([
   '% sobre entregadas',
   'personas con al menos una dosis',
   'personas con pauta completa',
+  'personas con dosis adicionales',
   'última vacuna registrada'
 ])
 Dir['reports/*txt'].sort.each do |filename|
