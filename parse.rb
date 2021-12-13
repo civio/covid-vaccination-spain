@@ -86,6 +86,11 @@ def extract_data(lines, filename)
       columns.insert(10, nil)
     end
 
+    # Starting 20211018, we get data for % people with incomplete treatments
+    if report_date<'20211118'
+      columns.insert(10, nil)
+    end
+
     # The summary line doesn't have a date at the end, which makes sense.
     # Github doesn't like that, so we just add an empty cell to make
     # Github's web preview work well.
@@ -111,6 +116,7 @@ puts CSV::generate_line([
   '% sobre entregadas',
   'personas con al menos una dosis',
   'personas con pauta completa',
+  '% pautas incompletas',
   'personas con dosis adicionales',
   'última vacuna registrada'
 ])
