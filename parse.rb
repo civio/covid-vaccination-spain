@@ -86,9 +86,14 @@ def extract_data(lines, filename)
       columns.insert(10, nil)
     end
 
-    # Starting 20211018, we get data for % people with incomplete treatments
+    # Starting 20211118, we get data for % people with incomplete treatments
     if report_date<'20211118'
       columns.insert(10, nil)
+    end
+
+    # Starting 20211220, we get data for pediatric vaccines
+    if report_date<'20211220'
+      columns.insert(2, nil)
     end
 
     # The summary line doesn't have a date at the end, which makes sense.
@@ -108,6 +113,7 @@ puts CSV::generate_line([
   'informe',
   'comunidad autónoma',
   'dosis Pfizer',
+  'dosis Pfizer pediátrica',
   'dosis Moderna',
   'dosis AstraZeneca',
   'dosis Janssen',
